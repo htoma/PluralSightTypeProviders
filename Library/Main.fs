@@ -9,28 +9,33 @@ type MovieSearchResult(result:option<Movie>) =
         | Some(movie) -> movie
         | _ -> invalidOp "no movie"
 
-let GetMovieInfo name = 
-    let info = 
-        TheMovieDb.tryGetMovieId name
-        |> Option.map (fun id -> 
-            TheMovieDb.getMovieDetails id,
-            TheMovieDb.getMovieCast id)
+let GetMovieInfo name = async {
+        let! infoWork = TheMovieDb.getMovieInfoByName name
+                        |> Async.StartChild
 
-    let review = NYTimes.tryDownloadReviewByName name
+        let! reviewWork = NYTimes.tryDownloadReviewByName name
+                            |> Async.StartChild
 
-    let basics = Netflix.getTop100()
-                    |> Seq.tryFind (fun v -> v.Title = name)
+        let! top100 = Netflix.getTop100()
 
-    match basics, info with
-    | Some(basics), Some(details, cast) ->
-        { Movie = basics
-          Details = details
-          Cast = cast
-          Review = review } |> Some |> MovieSearchResult
-    | _ -> None |> MovieSearchResult
+        let! info = infoWork
+        let! review = reviewWork        
 
-let GetLatestMovies() =
-    Netflix.getTop100() |> Seq.take 20
+        let basics = top100
+                        |> Seq.tryFind (fun v -> v.Title = name)
+
+        match basics, info with
+        | Some(basics), Some(details, cast) ->
+            return
+                { Movie = basics
+                  Details = details
+                  Cast = cast
+                  Review = review } |> Some |> MovieSearchResult
+        | _ -> return None |> MovieSearchResult } |> Async.StartAsTask
+
+let GetLatestMovies() = async {
+     let! top100 = Netflix.getTop100()
+     return top100 |> Seq.take 20 } |> Async.StartAsTask
 
 
         

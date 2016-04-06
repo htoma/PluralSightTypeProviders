@@ -64,6 +64,7 @@
     <Compile Include="Netflix.fs" />
     <Content Include="packages.config" />
     <Content Include="app.config" />
+    <Compile Include="ThrottleMessage.fs" />
     <Compile Include="NYTimes.fs" />
     <Compile Include="TheMovieDb.fs" />
     <Compile Include="Main.fs" />

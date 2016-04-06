@@ -1,16 +1,24 @@
-﻿using Movie.Data;
+﻿using System.Threading.Tasks;
+using static Movie.Data.MovieMain;
 
 namespace Movie.Console
 {
     class Program
     {
-        static void Main(string[] args)
+        static async Task Demo()
         {
-            var info = MovieMain.GetMovieInfo("Superman");
+            var info = await GetMovieInfo("Interstellar");
             if (info.HasMovie)
             {
                 System.Console.WriteLine(info.Movie.Details.Released);
             }
+        }
+
+        static void Main(string[] args)
+        {
+            var demo = Demo();
+            System.Console.WriteLine("downloading...");
+            demo.Wait();
         }
     }
 }

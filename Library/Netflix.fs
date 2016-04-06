@@ -26,5 +26,7 @@ let parseTop100 response =
               Thumbnail = thumb}
          }
 
-let getTop100() = 
-    parseTop100(Http.RequestString("http://dvd.netflix.com/Top100RSS"))
+let getTop100() = async {
+        let! response = Http.AsyncRequestString("http://dvd.netflix.com/Top100RSS") 
+        return parseTop100(response)
+    }
