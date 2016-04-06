@@ -1,0 +1,446 @@
+﻿{
+	"status": "OK",
+	"copyright": "Copyright (c) 2016 The New York Times Company. All Rights Reserved.",
+	"has_more": true,
+	"num_results": 20,
+	"results": [{
+		"display_title": "Vita Activa: The Spirit of Hannah Arendt",
+		"mpaa_rating": "",
+		"critics_pick": 1,
+		"byline": "A. O. SCOTT",
+		"headline": "Review: In ‘Vita Activa: The Spirit of Hannah Arendt,’ a Thinker More Relevant Than Ever",
+		"summary_short": "This documentary examines the controversies over Arendt’s coverage of the Eichmann war crimes trial and her writings on totalitarianism.",
+		"publication_date": "2016-04-05",
+		"opening_date": null,
+		"date_updated": "2016-04-05 21:52:03",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/06/movies/vita-activa-the-spirit-of-hannah-arendt-review.html",
+			"suggested_link_text": "Read the New York Times Review of Vita Activa: The Spirit of Hannah Arendt"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/06/arts/06VITA/06VITA-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	},
+	{
+		"display_title": "No Home Movie",
+		"mpaa_rating": "",
+		"critics_pick": 1,
+		"byline": "MANOHLA DARGIS",
+		"headline": "Review: ‘No Home Movie,’ of Love and Melancholy",
+		"summary_short": "Chantal Akerman’s last feature, about her mother, makes the viewer wonder how any of us, in our unguarded intimacy, manage to survive.",
+		"publication_date": "2016-03-31",
+		"opening_date": null,
+		"date_updated": "2016-03-31 13:34:03",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/01/movies/review-no-home-movie-of-love-and-melancholy.html",
+			"suggested_link_text": "Read the New York Times Review of No Home Movie"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/01/arts/01NOHOME/01NOHOME-mediumThreeByTwo210-v2.jpg",
+			"width": 210,
+			"height": 140
+		}
+	},
+	{
+		"display_title": "H.",
+		"mpaa_rating": "",
+		"critics_pick": 0,
+		"byline": "HELEN T. VERONGOS",
+		"headline": "Review: In ‘H.,’ a Fireball Sends Things Spinning Out of Control",
+		"summary_short": "This mysterious film, inspired by a Greek tragedy, depicts the parallel lives of two women named Helen in Troy, N.Y.",
+		"publication_date": "2016-03-31",
+		"opening_date": null,
+		"date_updated": "2016-03-31 18:22:02",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/01/movies/h-review.html",
+			"suggested_link_text": "Read the New York Times Review of H."
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/01/arts/01HFILM/01HFILM-mediumThreeByTwo210-v2.jpg",
+			"width": 210,
+			"height": 140
+		}
+	},
+	{
+		"display_title": "Darling",
+		"mpaa_rating": "",
+		"critics_pick": 0,
+		"byline": "ANDY WEBSTER",
+		"headline": "Review: ‘Darling,’ a Horror Outing",
+		"summary_short": "A young woman accepts an assignment from a wealthy matron to mind an upscale Manhattan apartment, only to unravel, in Mickey Keating’s film.",
+		"publication_date": "2016-03-31",
+		"opening_date": null,
+		"date_updated": "2016-03-31 19:38:02",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/01/movies/darling-review.html",
+			"suggested_link_text": "Read the New York Times Review of Darling"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/01/arts/01DARLING/01DARLING-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	},
+	{
+		"display_title": "Marinoni: The Fire in the Frame",
+		"mpaa_rating": "",
+		"critics_pick": 0,
+		"byline": "DANIEL M. GOLD",
+		"headline": "Review: In ‘Marinoni,’ a Racing Champion Turned Bicycle Craftsman",
+		"summary_short": "This documentary follows Giuseppe Marinoni, 75, as he travels from his adopted home in Canada to Italy to compete for a speed record in his age group.",
+		"publication_date": "2016-03-31",
+		"opening_date": null,
+		"date_updated": "2016-03-31 19:48:02",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/01/movies/marinoni-review.html",
+			"suggested_link_text": "Read the New York Times Review of Marinoni: The Fire in the Frame"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/01/arts/01MARINONI/01MARINONI-mediumThreeByTwo210-v2.jpg",
+			"width": 210,
+			"height": 140
+		}
+	},
+	{
+		"display_title": "The Girl in the Photographs",
+		"mpaa_rating": "R",
+		"critics_pick": 0,
+		"byline": "JEANNETTE CATSOULIS",
+		"headline": "Review: In ‘The Girl in the Photographs,’ Ambitious Goals Slashed",
+		"summary_short": "This horror film, with Wes Craven credited as executive producer, has a hackneyed sleaziness.",
+		"publication_date": "2016-03-31",
+		"opening_date": null,
+		"date_updated": "2016-03-31 19:58:03",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/01/movies/the-girl-in-the-photographs-review.html",
+			"suggested_link_text": "Read the New York Times Review of The Girl in the Photographs"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/03/08/movies/video-the-girl-in-the-photographs/video-the-girl-in-the-photographs-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	},
+	{
+		"display_title": "The Flight Fantastic",
+		"mpaa_rating": "",
+		"critics_pick": 0,
+		"byline": "NEIL GENZLINGER",
+		"headline": "Review: ‘The Flight Fantastic’ Takes to the Air With the Flying Gaonas",
+		"summary_short": "This documentary, by Tom Moore, explores the career of Tito Gaona and his three siblings, Mexican trapeze artists who brought a new verve to the form.",
+		"publication_date": "2016-03-31",
+		"opening_date": null,
+		"date_updated": "2016-03-31 20:10:02",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/01/movies/review-the-flight-fantastic-takes-to-the-air-with-the-flying-gaonas.html",
+			"suggested_link_text": "Read the New York Times Review of The Flight Fantastic"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/01/arts/01FLIGHT/01FLIGHT-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	},
+	{
+		"display_title": "Catching the Sun",
+		"mpaa_rating": "",
+		"critics_pick": 1,
+		"byline": "ANDY WEBSTER",
+		"headline": "Review: ‘Catching the Sun’ Profiles Solar Energy Entrepreneurs and Activists",
+		"summary_short": "This documentary spotlights international efforts to build a green economy through solar power.",
+		"publication_date": "2016-03-31",
+		"opening_date": null,
+		"date_updated": "2016-03-31 20:10:03",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/01/movies/review-catching-the-sun-profiles-solar-energy-entrepreneurs-and-activists.html",
+			"suggested_link_text": "Read the New York Times Review of Catching the Sun"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/01/arts/catching1/catching1-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	},
+	{
+		"display_title": "Kill Your Friends",
+		"mpaa_rating": "",
+		"critics_pick": 1,
+		"byline": "ANDY WEBSTER",
+		"headline": "Review: In ‘Kill Your Friends,’ Corporate Climbing Can Prove Deadly",
+		"summary_short": "The Britpop scene of the ‘90s takes it squarely on the chin in this blisteringly bleak yet richly satisfying poison-pen letter to the music industry.",
+		"publication_date": "2016-03-31",
+		"opening_date": null,
+		"date_updated": "2016-03-31 20:16:02",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/01/movies/kill-your-friends-review.html",
+			"suggested_link_text": "Read the New York Times Review of Kill Your Friends"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/01/arts/01KILLYOUR/01KILLYOUR-mediumThreeByTwo210-v3.jpg",
+			"width": 210,
+			"height": 140
+		}
+	},
+	{
+		"display_title": "Afternoon",
+		"mpaa_rating": "",
+		"critics_pick": 1,
+		"byline": "GLENN KENNY",
+		"headline": "Review: In ‘Afternoon,’ Two Men Open Up",
+		"summary_short": "This Tsai Ming-liang film features him and the actor Lee Kang-sheng discussing personal issues in a minimalist setting.",
+		"publication_date": "2016-03-31",
+		"opening_date": null,
+		"date_updated": "2016-03-31 20:24:02",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/01/movies/afternoon-review-tsai-ming-liang.html",
+			"suggested_link_text": "Read the New York Times Review of Afternoon"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/01/arts/01AFTERNOON/01AFTERNOON-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	},
+	{
+		"display_title": "Miles Ahead",
+		"mpaa_rating": "R",
+		"critics_pick": 1,
+		"byline": "MANOHLA DARGIS",
+		"headline": "Review: ‘Miles Ahead,’ an Impressionistic Take on Miles Davis",
+		"summary_short": "Don Cheadle stars in — and directed — this biopic about the jazz trumpeter, who was a sly chameleon, both in his life and in his music.",
+		"publication_date": "2016-03-31",
+		"opening_date": null,
+		"date_updated": "2016-03-31 20:34:02",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/01/movies/miles-ahead-review-miles-davis.html",
+			"suggested_link_text": "Read the New York Times Review of Miles Ahead"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/01/arts/milesimage3/milesimage3-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	},
+	{
+		"display_title": "Francofonia",
+		"mpaa_rating": "",
+		"critics_pick": 0,
+		"byline": "A. O. SCOTT",
+		"headline": "Review: ‘Francofonia,’ About World War II Foes Turned Allies, for the Sake of Art",
+		"summary_short": "Alexander Sokurov’s unsettling film examines efforts by the Louvre’s director and a Nazi conservator to protect the Louvre’s collection.",
+		"publication_date": "2016-03-31",
+		"opening_date": null,
+		"date_updated": "2016-03-31 20:48:02",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/01/movies/francofonia-review.html",
+			"suggested_link_text": "Read the New York Times Review of Francofonia"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/01/arts/01FRANCO/01FRANCO-mediumThreeByTwo210-v2.jpg",
+			"width": 210,
+			"height": 140
+		}
+	},
+	{
+		"display_title": "The Dark Horse",
+		"mpaa_rating": "R",
+		"critics_pick": 1,
+		"byline": "STEPHEN HOLDEN",
+		"headline": "Review: ‘The Dark Horse’ Dramatizes the Tale of a Chess Coach",
+		"summary_short": "“The Dark Horse,” a film inspired by a documentary, is about Gen Potini, a Maori speed-chess player who used his skill to help young players.",
+		"publication_date": "2016-03-31",
+		"opening_date": null,
+		"date_updated": "2016-03-31 21:00:02",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/01/movies/the-dark-horse-review.html",
+			"suggested_link_text": "Read the New York Times Review of The Dark Horse"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/01/arts/01DARKHORSE/01DARKHORSE-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	},
+	{
+		"display_title": "Too Late",
+		"mpaa_rating": "",
+		"critics_pick": 1,
+		"byline": "KEN JAWOROWSKI",
+		"headline": "Review: In ‘Too Late,’ Imitation Is Sincere Flattery",
+		"summary_short": "Noir pays tribute to noir, with respect, in this film by Dennis Hauck, starring John Hawkes as a private investigator determined to avenge a murder.",
+		"publication_date": "2016-03-31",
+		"opening_date": null,
+		"date_updated": "2016-03-31 21:06:02",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/01/movies/review-in-too-late-imitation-is-sincere-flattery.html",
+			"suggested_link_text": "Read the New York Times Review of Too Late"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/01/arts/01TOOLATE/01TOOLATE-mediumThreeByTwo210-v2.jpg",
+			"width": 210,
+			"height": 140
+		}
+	},
+	{
+		"display_title": "Standing Tall",
+		"mpaa_rating": "R",
+		"critics_pick": 1,
+		"byline": "STEPHEN HOLDEN",
+		"headline": "Review: ‘Standing Tall,’ a Boy’s Encounter With the Law",
+		"summary_short": "Emmanuelle Bercot’s film, with Rod Paradot as a violent boy, and Catherine Deneuve as a magistrate, examines France’s approach to juvenile justice.",
+		"publication_date": "2016-03-31",
+		"opening_date": null,
+		"date_updated": "2016-03-31 21:24:02",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/01/movies/review-standing-tall-a-boys-encounter-with-the-law.html",
+			"suggested_link_text": "Read the New York Times Review of Standing Tall"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/01/arts/01STANDINGTALL1/01STANDINGTALL1-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	},
+	{
+		"display_title": "Notfilm",
+		"mpaa_rating": "",
+		"critics_pick": 0,
+		"byline": "A. O. SCOTT",
+		"headline": "Review: ‘Notfilm’ Tells How Beckett and Keaton Collaborated",
+		"summary_short": "This documentary about the making of the 1965 short movie “Film” features interviews and anecdotes about the two men.",
+		"publication_date": "2016-03-31",
+		"opening_date": null,
+		"date_updated": "2016-03-31 21:44:03",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/01/movies/notfilm-review.html",
+			"suggested_link_text": "Read the New York Times Review of Notfilm"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/01/arts/01NOTFILM1/01NOTFILM1-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	},
+	{
+		"display_title": "Everybody Wants Some!!",
+		"mpaa_rating": "R",
+		"critics_pick": 1,
+		"byline": "A. O. SCOTT",
+		"headline": "Review: In ‘Everybody Wants Some!!,’ Casual Sex and Casual Philosophizing",
+		"summary_short": "Richard Linklater calls his latest film, set in 1980, a “spiritual sequel” to “Dazed and Confused,” his 1970s high school masterpiece.",
+		"publication_date": "2016-03-29",
+		"opening_date": null,
+		"date_updated": "2016-03-30 07:30:43",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/03/30/movies/everybody-wants-some-review.html",
+			"suggested_link_text": "Read the New York Times Review of Everybody Wants Some!!"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/03/30/arts/30EVERYBODYJP/30EVERYBODYJP-mediumThreeByTwo210-v2.jpg",
+			"width": 210,
+			"height": 140
+		}
+	},
+	{
+		"display_title": "I Don’t Belong Anywhere: The Cinema of Chantal Akerman",
+		"mpaa_rating": "",
+		"critics_pick": 0,
+		"byline": "NICOLAS RAPOLD",
+		"headline": "Review: ‘I Don’t Belong Anywhere’ Explores the Life and Work of Chantal Akerman",
+		"summary_short": "Marianne Lambert, who directed this documentary, was a production manager for Ms. Akerman, the groundbreaking Belgian director, who died in October.",
+		"publication_date": "2016-03-29",
+		"opening_date": null,
+		"date_updated": "2016-03-30 07:30:44",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/03/30/movies/review-i-dont-belong-anywhere-review-chantal-akerman.html",
+			"suggested_link_text": "Read the New York Times Review of I Don’t Belong Anywhere: The Cinema of Chantal Akerman"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/03/30/arts/30BELONG/30BELONG-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	},
+	{
+		"display_title": "Sex and Broadcasting — A Film About WFMU",
+		"mpaa_rating": "",
+		"critics_pick": 0,
+		"byline": "BEN KENIGSBERG",
+		"headline": "Review: ‘Sex and Broadcasting,’ With the Emphasis on the Latter",
+		"summary_short": "The story of WFMU, a listener-supported radio station kept alive in the era of corporate financing by sometimes wacky labors of love.",
+		"publication_date": "2016-03-29",
+		"opening_date": null,
+		"date_updated": "2016-03-30 07:30:44",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/03/30/movies/review-sex-and-broadcasting-review-wmfu.html",
+			"suggested_link_text": "Read the New York Times Review of Sex and Broadcasting — A Film About WFMU"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/03/30/arts/30SEXBROAD/30SEXBROAD-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	},
+	{
+		"display_title": "My Big Fat Greek Wedding 2",
+		"mpaa_rating": "PG-13",
+		"critics_pick": 0,
+		"byline": "JEANNETTE CATSOULIS",
+		"headline": "Review: ‘My Big Fat Greek Wedding 2’ Is Something Tired, Something New",
+		"summary_short": "This long-awaited sequel to the hit romantic comedy, again written by and starring Nia Vardalos, is a washed-out recycling of ethnic clichés and exhausted jokes.",
+		"publication_date": "2016-03-24",
+		"opening_date": null,
+		"date_updated": "2016-03-30 07:24:25",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/03/25/movies/my-big-fat-greek-wedding-2-review.html",
+			"suggested_link_text": "Read the New York Times Review of My Big Fat Greek Wedding 2"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/03/25/arts/25MYBIGFAT-web/25MYBIGFAT-web-mediumThreeByTwo210-v2.jpg",
+			"width": 210,
+			"height": 140
+		}
+	}]
+}

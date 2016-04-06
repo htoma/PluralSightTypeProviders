@@ -1,23 +1,15 @@
 ﻿module NYTimes
 
 open FSharp.Data
+open MovieData
 
 type NYT = 
     JsonProvider<"http://api.nytimes.com/svc/movies/v2/reviews/search.json?api-key=2ef8ce1a9c93a64599d9d00f80555ff3:8:72646066">
 
-type Review = 
-    { Published: System.DateTime
-      Summary: string
-      Link: string
-      LinkText: string }
-
 let baseUri = "http://api.nytimes.com/svc/movies/v2/reviews/search.json"
 let apiKey = "2ef8ce1a9c93a64599d9d00f80555ff3:8:72646066"
 
-let tryPickReviewByName name = 
-    let q = ["api-key", apiKey; "query", name]
-
-    let response = Http.RequestString(baseUri, q)
+let tryPickReviewByName name response = 
     let nyt = NYT.Parse response
     let reviewOpt = nyt.Results |> Seq.tryFind (fun v -> 
                         System.String.Equals(v.DisplayTitle, name, System.StringComparison.InvariantCultureIgnoreCase))
@@ -30,3 +22,7 @@ let tryPickReviewByName name =
                LinkText = v.Link.SuggestedLinkText}
     | None -> None
 
+let tryDownloadReviewByName name = 
+    let q = ["api-key", apiKey; "query", name]
+    let response = Http.RequestString(baseUri, q)
+    tryPickReviewByName name response

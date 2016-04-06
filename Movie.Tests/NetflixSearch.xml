@@ -1,0 +1,613 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel >
+    <title>Netflix Top 100</title>
+    <ttl>20160</ttl>
+    <link>http://dvd.netflix.com</link>
+    <description>Top 100 Netflix movies, published every 2 weeks.</description>
+    <language>en-us</language>
+    <cf:treatAs xmlns:cf="http://www.microsoft.com/schemas/rss/core/2005">list</cf:treatAs>
+    <atom:link href="http://dvd.netflix.com/Top100RSS" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Martian</title>
+      <link>http://dvd.netflix.com/Movie/The-Martian/80058399</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/The-Martian/80058399</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/The-Martian/80058399&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80058399.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Abandoned on the surface of Mars after his crew concludes that he perished in a dust storm, astronaut Mark Watney must find a way to survive the planet's harsh environment -- despite having only 28 days of supplies left.</description>
+    </item>
+    <item>
+      <title>San Andreas</title>
+      <link>http://dvd.netflix.com/Movie/San-Andreas/80027980</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/San-Andreas/80027980</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/San-Andreas/80027980&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80027980.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;In the wake of a cataclysmic California earthquake, a search-and-rescue chopper pilot and his ex-wife embark on a perilous journey from Los Angeles to San Francisco in hopes of saving their daughter.</description>
+    </item>
+    <item>
+      <title>Spy</title>
+      <link>http://dvd.netflix.com/Movie/Spy/80027379</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Spy/80027379</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Spy/80027379&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80027379.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Unassuming CIA analyst Susan Cooper is far from being a James Bond type, but when she's thrust into the field to investigate the disappearance of her partner, she turns into an improbable superspy.</description>
+    </item>
+    <item>
+      <title>Jurassic World</title>
+      <link>http://dvd.netflix.com/Movie/Jurassic-World/80029196</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Jurassic-World/80029196</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Jurassic-World/80029196&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80029196.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Once a popular, state-of-the-art dinosaur-themed attraction, Jurassic Park has fallen behind the times. In response, the owners decide to design a bold new exhibit, but the terror it inspires becomes all too real after the technology malfunctions.</description>
+    </item>
+    <item>
+      <title>Mad Max: Fury Road</title>
+      <link>http://dvd.netflix.com/Movie/Mad-Max-Fury-Road/80025919</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Mad-Max-Fury-Road/80025919</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Mad-Max-Fury-Road/80025919&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80025919.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;The desert wastelands inhabited by the Road Warrior are still rife with motorized gangs in this fourth chapter of the Mad Max legend. When Max encounters a group of refugees fleeing for their lives, he joins them and their fiery leader, Furiosa.</description>
+    </item>
+    <item>
+      <title>Avengers: Age of Ultron</title>
+      <link>http://dvd.netflix.com/Movie/Avengers-Age-of-Ultron/80023638</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Avengers-Age-of-Ultron/80023638</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Avengers-Age-of-Ultron/80023638&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80023638.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Returning to action to stem another lethal threat to planet Earth, the cadre of superheroes from the original Avengers takes on the evil and all-powerful Ultron, who's determined to stamp out humankind.</description>
+    </item>
+    <item>
+      <title>Trainwreck</title>
+      <link>http://dvd.netflix.com/Movie/Trainwreck/80036402</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Trainwreck/80036402</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Trainwreck/80036402&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80036402.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Single and successful, Amy has no intention of settling down -- or even going on a second date -- until she meets the subject of her next magazine piece, a handsome doctor. Confronted with a real-life good guy, she begins to reconsider bachelorhood.</description>
+    </item>
+    <item>
+      <title>The Man from U.N.C.L.E.</title>
+      <link>http://dvd.netflix.com/Movie/The-Man-from-U-N-C-L-E/80013274</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/The-Man-from-U-N-C-L-E/80013274</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/The-Man-from-U-N-C-L-E/80013274&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80013274.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;With both their countries threatened by a powerful global crime cartel, the CIA's Napoleon Solo and KGB operative Illya Kuryakin must work together in this Cold War thriller inspired by the classic 1960s TV series.</description>
+    </item>
+    <item>
+      <title>Homeland</title>
+      <link>http://dvd.netflix.com/Movie/Homeland/70180387</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Homeland/70180387</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Homeland/70180387&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/70180387.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;When Sgt. Nicholas Brody, an American prisoner of war, returns home after eight years of captivity, frantic CIA agent Carrie Anderson suspects the Marine of having been turned into an Al Qaeda terrorist in this espionage drama from Showtime.</description>
+    </item>
+    <item>
+      <title>Tomorrowland</title>
+      <link>http://dvd.netflix.com/Movie/Tomorrowland/80027380</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Tomorrowland/80027380</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Tomorrowland/80027380&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80027380.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Sharing the ability to perceive a utopian alternate dimension known as Tomorrowland, a reclusive inventor and a relentlessly curious teen begin a perilous quest to unlock the secrets of the magical world, which holds the promise of a brighter future.</description>
+    </item>
+    <item>
+      <title>Mission: Impossible - Rogue Nation</title>
+      <link>http://dvd.netflix.com/Movie/Mission-Impossible-Rogue-Nation/80038359</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Mission-Impossible-Rogue-Nation/80038359</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Mission-Impossible-Rogue-Nation/80038359&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80038359.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Legendary superspy Ethan Hunt pushes his mental and physical capabilities to the limit once again as he accepts another ridiculously dangerous assignment in this explosive globe-trotting sequel.</description>
+    </item>
+    <item>
+      <title>Ant-Man</title>
+      <link>http://dvd.netflix.com/Movie/Ant-Man/80036148</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Ant-Man/80036148</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Ant-Man/80036148&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80036148.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Fresh out of prison and looking for a new start, master thief Scott Lang is approached by Dr. Pym, creator of a technology that can shrink a man to insect size and boost strength. Together the duo must protect the discovery while saving the world.</description>
+    </item>
+    <item>
+      <title>The Age of Adaline</title>
+      <link>http://dvd.netflix.com/Movie/The-Age-of-Adaline/80014426</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/The-Age-of-Adaline/80014426</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/The-Age-of-Adaline/80014426&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80014426.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;After 29-year-old Adaline recovers from a nearly lethal accident, she inexplicably stops growing older. As the years stretch on and on, Adaline keeps her secret to herself -- till she meets a man who changes her life.</description>
+    </item>
+    <item>
+      <title>Inside Out</title>
+      <link>http://dvd.netflix.com/Movie/Inside-Out/80030684</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Inside-Out/80030684</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Inside-Out/80030684&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80030684.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;When her family relocates across the country, tween Riley Anderson struggles with the stress of her new situation and her animated emotions get carried away -- quite literally -- on a fantastic journey through her mind.</description>
+    </item>
+    <item>
+      <title>The Intern</title>
+      <link>http://dvd.netflix.com/Movie/The-Intern/80047616</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/The-Intern/80047616</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/The-Intern/80047616&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80047616.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Agreeing to participate in a community outreach program, e-commerce entrepreneur Jules Ostin hires a 70-year-old intern -- who ends up bringing his special brand of business savvy to her fashion enterprise.</description>
+    </item>
+    <item>
+      <title>Terminator Genisys</title>
+      <link>http://dvd.netflix.com/Movie/Terminator-Genisys/80031634</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Terminator-Genisys/80031634</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Terminator-Genisys/80031634&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80031634.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;In the continuing struggle between the ravaged human race and a horde of terminator cyborgs, this prequel to the Terminator legend reveals a very different back story for Sarah Conner, mother of Resistance hero John Connor.</description>
+    </item>
+    <item>
+      <title>Bridge of Spies</title>
+      <link>http://dvd.netflix.com/Movie/Bridge-of-Spies/80050060</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Bridge-of-Spies/80050060</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Bridge-of-Spies/80050060&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80050060.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;At the height of the Cold War in 1960, the downing of an American spy plane and the pilot's subsequent capture by the Soviets draws Brooklyn attorney James Donovan into the middle of an intense effort to secure the aviator's release.</description>
+    </item>
+    <item>
+      <title>Furious 7</title>
+      <link>http://dvd.netflix.com/Movie/Furious-7/80019608</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Furious-7/80019608</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Furious-7/80019608&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80019608.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Dominic Toretto's crew of lawless and fearless street racers returns to the United States hoping to settle down for a while. But that's not to be, as a bitter Ian Shaw -- determined to avenge his brother's death -- comes after Dominic.</description>
+    </item>
+    <item>
+      <title>Cinderella</title>
+      <link>http://dvd.netflix.com/Movie/Cinderella/80017604</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Cinderella/80017604</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Cinderella/80017604&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80017604.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;In this live-action retelling of Disney's animated classic, young Ella escapes from a life of drudgery by way of a fairy godmother whose magic brings Ella face-to-face with the prince of her dreams.</description>
+    </item>
+    <item>
+      <title>Sicario</title>
+      <link>http://dvd.netflix.com/Movie/Sicario/80046311</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Sicario/80046311</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Sicario/80046311&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80046311.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Recruited to assist in an undercover operation targeting a Mexican drug lord, federal agent Kate Macy finds her moral standards put to the test when she's plunged into the middle of a plan that goes beyond the boundaries of the law.</description>
+    </item>
+    <item>
+      <title>Pitch Perfect 2</title>
+      <link>http://dvd.netflix.com/Movie/Pitch-Perfect-2/80025920</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Pitch-Perfect-2/80025920</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Pitch-Perfect-2/80025920&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80025920.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Hoping to be the first American group ever to win a prestigious international a cappella competition, the Barden Bellas return in this song-filled sequel and come up against a rival group of European singers who are also determined to win.</description>
+    </item>
+    <item>
+      <title>Vacation</title>
+      <link>http://dvd.netflix.com/Movie/Vacation/80048224</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Vacation/80048224</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Vacation/80048224&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80048224.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Centering on the next generation of the Griswold clan -- headed by the now-adult Rusty -- this reboot of the popular franchise follows their disaster-plagued pilgrimage to experience the wonders of Walley World.</description>
+    </item>
+    <item>
+      <title>Mr. Holmes</title>
+      <link>http://dvd.netflix.com/Movie/Mr-Holmes/80039601</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Mr-Holmes/80039601</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Mr-Holmes/80039601&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80039601.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Long retired to a country farmhouse, 93-year-old Sherlock Holmes tends his apiary and reflects on his remarkable career. But the legendary sleuth, whose mental powers are fading, remains haunted by the unsolved case that caused him to call it quits.</description>
+    </item>
+    <item>
+      <title>Hot Pursuit</title>
+      <link>http://dvd.netflix.com/Movie/Hot-Pursuit/80024233</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Hot-Pursuit/80024233</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Hot-Pursuit/80024233&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80024233.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Assigned to protect the sexy widow of a drug kingpin, a straitlaced Texas police detective is forced to take flight with her precious cargo when an assortment of bad cops and ruthless hit men start closing in on the pair.</description>
+    </item>
+    <item>
+      <title>Ricki and the Flash</title>
+      <link>http://dvd.netflix.com/Movie/Ricki-and-the-Flash/80039408</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Ricki-and-the-Flash/80039408</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Ricki-and-the-Flash/80039408&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80039408.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Abandoning her family to chase -- and ultimately attain -- her dream of rock stardom, guitarist Ricki Rendazzo returns years later to try to mend fences. Unfortunately, her estranged sons and daughter want little to do with her ... at first.</description>
+    </item>
+    <item>
+      <title>Kingsman: The Secret Service</title>
+      <link>http://dvd.netflix.com/Movie/Kingsman-The-Secret-Service/80013870</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Kingsman-The-Secret-Service/80013870</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Kingsman-The-Secret-Service/80013870&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80013870.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Seeing untapped potential in a wayward teenager, veteran secret agent Harry Hart recruits the young delinquent and schools him in the skills that will ultimately transform him into a superspy.</description>
+    </item>
+    <item>
+      <title>Southpaw</title>
+      <link>http://dvd.netflix.com/Movie/Southpaw/80038447</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Southpaw/80038447</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Southpaw/80038447&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80038447.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;With his unique and brutally effective boxing style, Billy has become a rising star in the fighting world. But when his wife's death sends the pugilist into a downward spiral, it will take a former boxer to intervene and remake Billy as a champion.</description>
+    </item>
+    <item>
+      <title>The Gift</title>
+      <link>http://dvd.netflix.com/Movie/The-Gift/80046694</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/The-Gift/80046694</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/The-Gift/80046694&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80046694.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;As Simon and his wife, Robyn, are trying to revitalize their relationship, a string of encounters with someone from Simon's high school days and a shocking 20-year-old secret threaten to unravel the couple's lives.</description>
+    </item>
+    <item>
+      <title>Aloha</title>
+      <link>http://dvd.netflix.com/Movie/Aloha/80038361</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Aloha/80038361</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Aloha/80038361&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80038361.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Returning to Hawaii to coordinate the launch of a revolutionary weapons satellite, defense contractor Brian Gilcrest reconnects with an old flame. Before long, however, he's distracted by the alluring Air Force officer assigned to be his escort.</description>
+    </item>
+    <item>
+      <title>Pixels</title>
+      <link>http://dvd.netflix.com/Movie/Pixels/80037476</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Pixels/80037476</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Pixels/80037476&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80037476.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;After aliens attack Earth using 1980s arcade games as models for their onslaught, President Will Cooper calls in longtime friend and former gaming ace Sam Brenner to take on the extraterrestrial invaders.</description>
+    </item>
+    <item>
+      <title>Spectre</title>
+      <link>http://dvd.netflix.com/Movie/Spectre/80056799</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Spectre/80056799</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Spectre/80056799&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80056799.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;James Bond continues his run of romance and foreign intrigue in this tense thriller that pits him against the global terrorist organization SPECTRE. Already battling political interference, MI6 and Bond must again take on their most implacable foe.</description>
+    </item>
+    <item>
+      <title>A Walk in the Woods</title>
+      <link>http://dvd.netflix.com/Movie/A-Walk-in-the-Woods/80039049</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/A-Walk-in-the-Woods/80039049</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/A-Walk-in-the-Woods/80039049&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80039049.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Returning to America after living abroad many years, aging travel writer Bill Bryson decides to focus on his native land by hiking the length of the Appalachian Trail with his long-estranged pal Stephen Katz -- a tottering, wisecracking ex-alcoholic.</description>
+    </item>
+    <item>
+      <title>Max</title>
+      <link>http://dvd.netflix.com/Movie/Max/80013270</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Max/80013270</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Max/80013270&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80013270.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;In this affecting drama based on real events, military dog Max is adopted by the family of his trainer, who was killed in Afghanistan. Besides helping the family overcome their grief, Max's arrival provides new clues about the soldier's death.</description>
+    </item>
+    <item>
+      <title>Woman in Gold</title>
+      <link>http://dvd.netflix.com/Movie/Woman-in-Gold/80028265</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Woman-in-Gold/80028265</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Woman-in-Gold/80028265&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80028265.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Six decades after World War II, Jewish octogenarian Maria Altmann begins a quest to reclaim the artwork confiscated from her family by the Nazis -- including a famed Gustav Klimt masterpiece.</description>
+    </item>
+    <item>
+      <title>The Divergent Series: Insurgent</title>
+      <link>http://dvd.netflix.com/Movie/The-Divergent-Series-Insurgent/80018211</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/The-Divergent-Series-Insurgent/80018211</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/The-Divergent-Series-Insurgent/80018211&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80018211.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;With war rumbling, Beatrice Prior looks for allies and answers in the second installment of the film series based on Veronica Roth's popular science-fiction novels. &quot;Tris&quot; will have to be fast, though, because the Erudite leader is in hot pursuit. </description>
+    </item>
+    <item>
+      <title>House of Cards</title>
+      <link>http://dvd.netflix.com/Movie/House-of-Cards/70178217</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/House-of-Cards/70178217</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/House-of-Cards/70178217&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/70178217.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Ruthless politician Francis Underwood and his ambitious wife Claire will stop at nothing to conquer Washington D.C. in this dark political drama, winner of four Emmy Awards, including Best Director, and two Golden Globes for Best Actor and Best Actress.</description>
+    </item>
+    <item>
+      <title>Ex Machina</title>
+      <link>http://dvd.netflix.com/Movie/Ex-Machina/80023689</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Ex-Machina/80023689</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Ex-Machina/80023689&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80023689.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;After winning a chance to spend a week at his boss's Alaskan compound, tech whiz Caleb Smith finds he's been selected to help evaluate a sentient humanoid dubbed Ava -- whose feminine wiles prove more formidable than expected.</description>
+    </item>
+    <item>
+      <title>The Second Best Exotic Marigold Hotel</title>
+      <link>http://dvd.netflix.com/Movie/The-Second-Best-Exotic-Marigold-Hotel/80016590</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/The-Second-Best-Exotic-Marigold-Hotel/80016590</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/The-Second-Best-Exotic-Marigold-Hotel/80016590&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80016590.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;In a sequel to the Golden Globe-nominated film, hotel owner Sonny is overwhelmed with the task of finding a second property to accommodate the influx of new residents, while his upcoming wedding plans may be too much for the hotel's staff to handle.</description>
+    </item>
+    <item>
+      <title>Minions</title>
+      <link>http://dvd.netflix.com/Movie/Minions/80033394</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Minions/80033394</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Minions/80033394&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80033394.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Born to serve despicable villains, these crazy, yellow second-fiddles have a tragic history of accidentally killing off their masters. Without leadership they will perish, so three Minions head out on a dangerous journey to find their next evil boss.</description>
+    </item>
+    <item>
+      <title>Game of Thrones</title>
+      <link>http://dvd.netflix.com/Movie/Game-of-Thrones/70177064</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Game-of-Thrones/70177064</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Game-of-Thrones/70177064&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/70177064.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Originally airing on HBO, this live-action fantasy series -- based on George R.R. Martin's &quot;A Song of Ice and Fire&quot; novels -- charts the violent efforts of competing noble families to gain control of the vacant Westeros throne.</description>
+    </item>
+    <item>
+      <title>The Big Short</title>
+      <link>http://dvd.netflix.com/Movie/The-Big-Short/80075560</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/The-Big-Short/80075560</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/The-Big-Short/80075560&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80075560.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Before the housing and credit bubble of 2007 triggers an international economic meltdown, a handful of financial outsiders sees the crash coming and bets against the big banks in a daring play that could reap them huge profits.</description>
+    </item>
+    <item>
+      <title>American Sniper</title>
+      <link>http://dvd.netflix.com/Movie/American-Sniper/80013871</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/American-Sniper/80013871</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/American-Sniper/80013871&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80013871.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Based on his memoir of the same name, this military biopic centers on legendary sniper Chris Kyle, who amassed a record number of kills on the battlefield during his 10-year career as a Navy SEAL.</description>
+    </item>
+    <item>
+      <title>Far from the Madding Crowd</title>
+      <link>http://dvd.netflix.com/Movie/Far-from-the-Madding-Crowd/80023346</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Far-from-the-Madding-Crowd/80023346</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Far-from-the-Madding-Crowd/80023346&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80023346.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;In this period drama based on Thomas Hardy's classic novel, winsome Bathsheba Everdene wins the hearts of three disparate men: sheep farmer Gabriel Oak, dashing soldier Frank Troy and William Boldwood, a moneyed older man.</description>
+    </item>
+    <item>
+      <title>Maze Runner: The Scorch Trials</title>
+      <link>http://dvd.netflix.com/Movie/Maze-Runner-The-Scorch-Trials/80046310</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Maze-Runner-The-Scorch-Trials/80046310</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Maze-Runner-The-Scorch-Trials/80046310&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80046310.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;After escaping the Maze in the original sci-fi thriller, Thomas and the Gladers face an even more harrowing set of challenges as they find themselves on the run while solar flares are ravaging the planet.</description>
+    </item>
+    <item>
+      <title>No Escape</title>
+      <link>http://dvd.netflix.com/Movie/No-Escape/80016589</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/No-Escape/80016589</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/No-Escape/80016589&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80016589.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;When American Jack Dwyer and his family relocate to Southeast Asia, they quickly learn that their timing couldn't have been worse. Soon after arriving, they find themselves trapped in a violent coup that could wind up costing them their lives.</description>
+    </item>
+    <item>
+      <title>I'll See You in My Dreams</title>
+      <link>http://dvd.netflix.com/Movie/I-ll-See-You-in-My-Dreams/80039050</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/I-ll-See-You-in-My-Dreams/80039050</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/I-ll-See-You-in-My-Dreams/80039050&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80039050.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;With her well-ordered life thrown out of balance by the death of her beloved canine companion, aging widow Carol Petersen -- who hasn't dated in 20 years -- unexpectedly finds herself involved with two very different men.</description>
+    </item>
+    <item>
+      <title>Room</title>
+      <link>http://dvd.netflix.com/Movie/Room/80073823</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Room/80073823</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Room/80073823&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80073823.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;After being abducted, raped and imprisoned in a small windowless room, a young woman gives birth and is forced to raise her son, Jack, in the same improvised space. But after five years, Jack's mother begins planning their escape.</description>
+    </item>
+    <item>
+      <title>Ted 2</title>
+      <link>http://dvd.netflix.com/Movie/Ted-2/80031715</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Ted-2/80031715</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Ted-2/80031715&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80031715.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Still as uncouth and immorally inclined as ever, Ted the foul-mouthed stuffed bear launches into a rollicking sequel that involves a chaotic road trip with his best buddy, John, who has romantic issues that Ted is determined to make worse.</description>
+    </item>
+    <item>
+      <title>Love &amp; Mercy</title>
+      <link>http://dvd.netflix.com/Movie/Love-Mercy/80017274</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Love-Mercy/80017274</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Love-Mercy/80017274&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80017274.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;This candid biopic traces the winding path of Brian Wilson, creator of the Beach Boys' unique sound. Battling mental illness, Wilson traded stardom for an isolated existence in the 1960s but returned to the stage in the '80s after taming his demons.</description>
+    </item>
+    <item>
+      <title>Selfless</title>
+      <link>http://dvd.netflix.com/Movie/Selfless/80021840</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Selfless/80021840</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Selfless/80021840&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80021840.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Facing terminal cancer, an elderly billionaire undergoes surgery that will allow his mind to be transplanted into a young man's body. The operation is a success, but now the tycoon is learning more than he wants to about his body's former occupant.</description>
+    </item>
+    <item>
+      <title>The Imitation Game</title>
+      <link>http://dvd.netflix.com/Movie/The-Imitation-Game/70295172</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/The-Imitation-Game/70295172</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/The-Imitation-Game/70295172&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/70295172.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Chronicling mathematical wizard Alan Turing's key role in Britain's successful effort to crack Germany's Enigma code during World War II, this historical biopic also recounts how his groundbreaking work helped launch the computer age.</description>
+    </item>
+    <item>
+      <title>Interstellar</title>
+      <link>http://dvd.netflix.com/Movie/Interstellar/70305903</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Interstellar/70305903</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Interstellar/70305903&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/70305903.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;From director Christopher Nolan comes this futuristic cosmic odyssey, which follows a band of space explorers who surmount the limits of interstellar travel, using a recently discovered wormhole to pass between dimensions.</description>
+    </item>
+    <item>
+      <title>Burnt</title>
+      <link>http://dvd.netflix.com/Movie/Burnt/80048561</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Burnt/80048561</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Burnt/80048561&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80048561.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;In his ambitious attempt to open a world-class restaurant, cutting-edge chef Adam Jones encounters a platterful of obstacles -- which includes assembling a staff capable of helping him win a coveted third star in the Michelin guidebook.</description>
+    </item>
+    <item>
+      <title>Straight Outta Compton</title>
+      <link>http://dvd.netflix.com/Movie/Straight-Outta-Compton/80041415</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Straight-Outta-Compton/80041415</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Straight-Outta-Compton/80041415&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80041415.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Bringing the raw reality of South Central Los Angeles to vinyl in the 1980s, N.W.A.'s electrifying debut album upped the social ante for rap music. This pull-no-punches portrait of the band's brief career traces their dramatic rise and fall.</description>
+    </item>
+    <item>
+      <title>Magic Mike XXL</title>
+      <link>http://dvd.netflix.com/Movie/Magic-Mike-XXL/80031499</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Magic-Mike-XXL/80031499</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Magic-Mike-XXL/80031499&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80031499.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Three years after he bowed out of the stripper life at the top of his game, Mike finds the remaining Kings of Tampa likewise ready to throw in the towel. But they want to do it their way: burning down the house in one last blowout performance.</description>
+    </item>
+    <item>
+      <title>Entourage</title>
+      <link>http://dvd.netflix.com/Movie/Entourage/80028455</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Entourage/80028455</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Entourage/80028455&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80028455.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Taking their reckless Hollywood ways to the big screen, actor Vincent Chase and his posse find new and creative ways to get in trouble -- and his starring role in a big-budget Dracula film provides plenty of opportunities.</description>
+    </item>
+    <item>
+      <title>Pan</title>
+      <link>http://dvd.netflix.com/Movie/Pan/70307653</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Pan/70307653</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Pan/70307653&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/70307653.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;This fantasy drama based on J.M. Barrie's beloved tale about ageless sprite Peter Pan is reset in World War II. With pirates still roaming the landscape, Peter is transported to the magical kingdom of Neverland, where he's destined to become a hero.</description>
+    </item>
+    <item>
+      <title>The Longest Ride</title>
+      <link>http://dvd.netflix.com/Movie/The-Longest-Ride/80020963</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/The-Longest-Ride/80020963</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/The-Longest-Ride/80020963&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80020963.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Told via concurrent stories that ultimately converge, this adaptation of the Nicholas Sparks novel follows an old man consoled by reminiscences of his late wife as he's trapped after a car crash, and a young couple falling in love in a nearby town.</description>
+    </item>
+    <item>
+      <title>Get Hard</title>
+      <link>http://dvd.netflix.com/Movie/Get-Hard/80018689</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Get-Hard/80018689</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Get-Hard/80018689&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80018689.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Facing a stint in San Quentin after his conviction for fraud, millionaire banker James King turns to streetwise Darnell Lewis for a crash course on the customs and prohibitions of life inside prison walls.</description>
+    </item>
+    <item>
+      <title>Downton Abbey</title>
+      <link>http://dvd.netflix.com/Movie/Downton-Abbey/70213223</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Downton-Abbey/70213223</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Downton-Abbey/70213223&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/70213223.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Exposing the snobbery, backbiting and machinations of a disappearing class system, this series chronicles the comings and goings of the upper-crust Crawley family and their assorted servants.</description>
+    </item>
+    <item>
+      <title>Black Mass</title>
+      <link>http://dvd.netflix.com/Movie/Black-Mass/80046307</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Black-Mass/80046307</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Black-Mass/80046307&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80046307.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;This fact-based drama recounts the story of notorious Boston gangster &quot;Whitey&quot; Bulger, who turned FBI informant to get rid of his mob rivals. Later facing imminent indictment, he eluded authorities for more than 15 years, until his arrest in 2011.</description>
+    </item>
+    <item>
+      <title>Everest</title>
+      <link>http://dvd.netflix.com/Movie/Everest/80046309</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Everest/80046309</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Everest/80046309&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80046309.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Based on a true-life tale of death and survival on the world's tallest mountain, this epic adventure tracks the fate of two climbing parties that become trapped when a savage snowstorm engulfs the summit of Mount Everest.</description>
+    </item>
+    <item>
+      <title>The Water Diviner</title>
+      <link>http://dvd.netflix.com/Movie/The-Water-Diviner/80025390</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/The-Water-Diviner/80025390</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/The-Water-Diviner/80025390&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80025390.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Following the carnage of the Gallipoli campaign, an Australian farmer travels from his home Down Under to the battlefields of Turkey in an attempt to find his three sons, all of whom went missing during the conflict.</description>
+    </item>
+    <item>
+      <title>The Last Witch Hunter</title>
+      <link>http://dvd.netflix.com/Movie/The-Last-Witch-Hunter/80052541</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/The-Last-Witch-Hunter/80052541</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/The-Last-Witch-Hunter/80052541&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80052541.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Hell-bent on destroying humankind, a powerful coven aims to unleash a devastating plague on New York City -- and it's up to an immortal witch hunter, a priest and a good-hearted young witch to thwart the lethal plan.</description>
+    </item>
+    <item>
+      <title>Wild</title>
+      <link>http://dvd.netflix.com/Movie/Wild/80013281</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Wild/80013281</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Wild/80013281&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80013281.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Undone by a broken marriage and her mother's death, Cheryl Strayed has been on a years-long reckless tear, fueled by addiction and despair. In a bid to save her life, she decides to hike the entire Pacific Crest Trail -- alone and with no experience.</description>
+    </item>
+    <item>
+      <title>McFarland, USA</title>
+      <link>http://dvd.netflix.com/Movie/McFarland-USA/70305909</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/McFarland-USA/70305909</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/McFarland-USA/70305909&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/70305909.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Track coach Jim White's search for work leads him to a high school in California's Central Valley with a largely Latino student body. After White and his determined athletes establish a bond of trust, remarkable achievements are on the horizon.</description>
+    </item>
+    <item>
+      <title>Still Alice</title>
+      <link>http://dvd.netflix.com/Movie/Still-Alice/70301350</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Still-Alice/70301350</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Still-Alice/70301350&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/70301350.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;When 50-year-old linguistics professor Alice Howland begins having trouble remembering words, her symptoms ultimately lead to a diagnosis of early-onset Alzheimer's -- which forces Alice and her family to make radical changes in their lives.</description>
+    </item>
+    <item>
+      <title>Fantastic Four</title>
+      <link>http://dvd.netflix.com/Movie/Fantastic-Four/80039068</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Fantastic-Four/80039068</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Fantastic-Four/80039068&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80039068.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;In this updated sci-fi saga about the legendary Fantastic Four, a team of scientists who suddenly acquire superhuman abilities are soon obliged to put them to use when a powerful nemesis with malevolent plans threatens Earth.</description>
+    </item>
+    <item>
+      <title>Better Call Saul</title>
+      <link>http://dvd.netflix.com/Movie/Better-Call-Saul/80021955</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Better-Call-Saul/80021955</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Better-Call-Saul/80021955&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80021955.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;The prequel spinoff to &quot;Breaking Bad&quot; follows the fateful career of small-time criminal attorney Jimmy McGill, whose questionable choice of clientele eventually leads him to become meth mogul Walter White's morally bankrupt lawyer, Saul Goodman.</description>
+    </item>
+    <item>
+      <title>Focus</title>
+      <link>http://dvd.netflix.com/Movie/Focus/80015343</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Focus/80015343</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Focus/80015343&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80015343.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;After falling for his pretty young prot&amp;#233;g&amp;#233;, expert con man Nicky Spurgeon ends their romance when he realizes it will only complicate matters. But his decision comes back to haunt him when she turns up later on the other side of Nicky's newest scam.</description>
+    </item>
+    <item>
+      <title>Unbroken</title>
+      <link>http://dvd.netflix.com/Movie/Unbroken/70305949</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Unbroken/70305949</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Unbroken/70305949&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/70305949.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;This inspiring tale of survival is based on the real-life experiences of Louis Zamperini, an American pilot held by the Japanese during World War II. After his plane crashes into the Pacific Ocean, Zamperini spends 47 days adrift before his capture.</description>
+    </item>
+    <item>
+      <title>The Walk</title>
+      <link>http://dvd.netflix.com/Movie/The-Walk/80048473</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/The-Walk/80048473</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/The-Walk/80048473&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80048473.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;In 1974, French aerialist Philippe Petit made headlines worldwide with his daring high-wire walk between the twin towers of the World Trade Center. This elevating drama recalls the unauthorized and unforgettable feat pulled off by Petit and his team.</description>
+    </item>
+    <item>
+      <title>Spotlight</title>
+      <link>http://dvd.netflix.com/Movie/Spotlight/80061341</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Spotlight/80061341</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Spotlight/80061341&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80061341.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Revealing a string of cover-ups stretching back decades, a team of &quot;Boston Globe&quot; reporters exposes the Catholic Archdiocese's history of keeping reports about child molestation and other priest-initiated abuse under wraps.</description>
+    </item>
+    <item>
+      <title>The Hunger Games: Mockingjay - Part 2</title>
+      <link>http://dvd.netflix.com/Movie/The-Hunger-Games-Mockingjay-Part-2/80057972</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/The-Hunger-Games-Mockingjay-Part-2/80057972</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/The-Hunger-Games-Mockingjay-Part-2/80057972&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80057972.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;As the dystopian franchise reaches its powerful conclusion, Katniss Everdeen -- flanked by her allies from District 13 -- embarks on a quest to liberate the oppressed citizens of Panem by assassinating ruthless President Snow.</description>
+    </item>
+    <item>
+      <title>Dark Places</title>
+      <link>http://dvd.netflix.com/Movie/Dark-Places/80025495</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Dark-Places/80025495</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Dark-Places/80025495&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80025495.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;A quarter-century after Libby Day's mother and sisters were brutally murdered in a crime she believes her brother committed, a group of amateur sleuths begins casting doubt on his guilt. Now, Libby must re-examine details of her painful memories.</description>
+    </item>
+    <item>
+      <title>True Story</title>
+      <link>http://dvd.netflix.com/Movie/True-Story/80029943</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/True-Story/80029943</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/True-Story/80029943&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80029943.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Based on true events, this cat-and-mouse thriller follows the complex relationship between accused murderer Christian Longo and disgraced New York Times reporter Michael Finkel, whose identity Longo had usurped until he was captured by the FBI.</description>
+    </item>
+    <item>
+      <title>Jupiter Ascending</title>
+      <link>http://dvd.netflix.com/Movie/Jupiter-Ascending/70301367</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Jupiter-Ascending/70301367</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Jupiter-Ascending/70301367&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/70301367.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Impoverished young Jupiter Jones struggles to make ends meet. But when a genetically engineered hunter from another planet tracks her down, she learns she's been predestined to change the fate of the universe.</description>
+    </item>
+    <item>
+      <title>American Ultra</title>
+      <link>http://dvd.netflix.com/Movie/American-Ultra/80053615</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/American-Ultra/80053615</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/American-Ultra/80053615&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80053615.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Mike Howell's indolent life as a small-town stoner is abruptly upended when he comes to realize that he's a trained sleeper agent for a foreign foe -- and that U.S. government operatives have marked him for death.</description>
+    </item>
+    <item>
+      <title>Run All Night</title>
+      <link>http://dvd.netflix.com/Movie/Run-All-Night/80021752</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Run-All-Night/80021752</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Run-All-Night/80021752&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80021752.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Though hard-drinking Jimmy Conlon left behind his career as a mob enforcer years ago, he's forced to revive his lethal skills to protect his family when his son runs afoul with Jimmy's former boss, Shawn Maguire.</description>
+    </item>
+    <item>
+      <title>The Judge</title>
+      <link>http://dvd.netflix.com/Movie/The-Judge/70305896</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/The-Judge/70305896</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/The-Judge/70305896&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/70305896.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Big city lawyer Hank Palmer returns to his childhood home where his father, the town's judge, is suspected of murder. Hank sets out to discover the truth and, along the way, reconnects with his estranged family.</description>
+    </item>
+    <item>
+      <title>Hotel Transylvania 2</title>
+      <link>http://dvd.netflix.com/Movie/Hotel-Transylvania-2/80048061</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Hotel-Transylvania-2/80048061</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Hotel-Transylvania-2/80048061&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80048061.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;In this batty animated sequel, high jinks and hilarity ensue when Vlad, Dracula's cranky estranged dad, arrives at Hotel Transylvania for an unexpected visit -- and promptly creates an uproar.</description>
+    </item>
+    <item>
+      <title>The Hunger Games: Mockingjay - Part 1</title>
+      <link>http://dvd.netflix.com/Movie/The-Hunger-Games-Mockingjay-Part-1/70305908</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/The-Hunger-Games-Mockingjay-Part-1/70305908</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/The-Hunger-Games-Mockingjay-Part-1/70305908&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/70305908.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;In this chapter of the post-apocalyptic epic, intrepid Katniss Everdeen is called on to lead her people in a rebellion against the all-powerful Capital. As the conflict escalates, everything Katniss treasures hangs in the balance.</description>
+    </item>
+    <item>
+      <title>Me and Earl and the Dying Girl</title>
+      <link>http://dvd.netflix.com/Movie/Me-and-Earl-and-the-Dying-Girl/80037760</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Me-and-Earl-and-the-Dying-Girl/80037760</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Me-and-Earl-and-the-Dying-Girl/80037760&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80037760.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Cruising through his senior year, high schooler Greg Gaines spends his free time making parody versions of famous films with his pal Earl. But when Greg's mother asks him to befriend Rachel, a leukemia patient, his blithe outlook begins to change.</description>
+    </item>
+    <item>
+      <title>Taken 3</title>
+      <link>http://dvd.netflix.com/Movie/Taken-3/80013277</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Taken-3/80013277</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Taken-3/80013277&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80013277.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;In the final installment of the hit action franchise, former CIA operative Bryan Mills is framed for murder and must use his covert skills to keep himself alive while trying to prove his innocence.</description>
+    </item>
+    <item>
+      <title>Grandma</title>
+      <link>http://dvd.netflix.com/Movie/Grandma/80038198</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Grandma/80038198</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Grandma/80038198&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80038198.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Elle Reid (Lily Tomlin) has just gotten through breaking up with her girlfriend when her granddaughter Sage (Julia Garner) unexpectedly shows up needing $600 before sundown. Temporarily broke, Grandma Elle and Sage spend the day trying to get their hands on the cash, as their unannounced visits to old friends and flames end up rattling skeletons and digging up secrets.</description>
+    </item>
+    <item>
+      <title>St. Vincent</title>
+      <link>http://dvd.netflix.com/Movie/St-Vincent/70295665</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/St-Vincent/70295665</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/St-Vincent/70295665&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/70295665.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;With his parents preoccupied with their divorce, lonely 12-year-old Oliver strikes up a friendship with his war-veteran neighbor Vincent. A hard-drinking gambler with a fondness for hookers, Vincent finds his life changed by the boy's presence.</description>
+    </item>
+    <item>
+      <title>Fargo</title>
+      <link>http://dvd.netflix.com/Movie/Fargo/70285785</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Fargo/70285785</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Fargo/70285785&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/70285785.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Writer/executive producer Noah Hawley and executive producer Warren Littlefield expand on the Coen brothers' mythology of their 1996 big-screen masterpiece while retaining all the Minnesota charm that made it a cult hit. This limited series chronicles a new criminal case.</description>
+    </item>
+    <item>
+      <title>Chappie</title>
+      <link>http://dvd.netflix.com/Movie/Chappie/80016588</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Chappie/80016588</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Chappie/80016588&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80016588.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;This futuristic caper chronicles the adventures of Chappie, an advanced humanoid robot who's kidnapped shortly after his creation and ends up incorporated into an already offbeat family.</description>
+    </item>
+    <item>
+      <title>War Room</title>
+      <link>http://dvd.netflix.com/Movie/War-Room/80044538</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/War-Room/80044538</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/War-Room/80044538&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80044538.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;From the outside, the lives of Tony and Elizabeth Jordan appear perfect, but their marriage is in shambles. After seeking counsel from a wise older woman, Elizabeth realizes it will take a deep commitment to prayer to keep her world from crumbling.</description>
+    </item>
+    <item>
+      <title>Goosebumps</title>
+      <link>http://dvd.netflix.com/Movie/Goosebumps/80049939</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Goosebumps/80049939</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Goosebumps/80049939&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80049939.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;None-too happy about moving to a small Maryland town, teen Zach Cooper finds his outlook changing after meeting the gorgeous girl next door, Hannah Stine -- whose reclusive father happens to be hiding a big secret.</description>
+    </item>
+    <item>
+      <title>Danny Collins</title>
+      <link>http://dvd.netflix.com/Movie/Danny-Collins/80026390</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Danny-Collins/80026390</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Danny-Collins/80026390&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80026390.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Clinging to memories of his 1970s heyday, former rock star Danny Collins gets a wake-up call when his manager finds an unopened 40-year-old missive written to Danny by John Lennon. Newly inspired, Danny decides to reinvent his future.</description>
+    </item>
+    <item>
+      <title>Fifty Shades of Grey</title>
+      <link>http://dvd.netflix.com/Movie/Fifty-Shades-of-Grey/80013872</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Fifty-Shades-of-Grey/80013872</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Fifty-Shades-of-Grey/80013872&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80013872.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Based on the popular and racy novel, this intimate drama portrays the intense emotional relationship and erotic extremes explored by college student Anastasia Steele and Christian Grey, a wealthy man 10 years her senior.</description>
+    </item>
+    <item>
+      <title>Paper Towns</title>
+      <link>http://dvd.netflix.com/Movie/Paper-Towns/80028903</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Paper-Towns/80028903</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Paper-Towns/80028903&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80028903.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;When Quentin Jacobsen's longtime crush -- fabulously cool high school senior Margo Roth Spiegelman -- vanishes soon after drafting him for a revenge-fueled mission, he sets off on a cross-country road trip to find her.</description>
+    </item>
+    <item>
+      <title>Hitman: Agent 47</title>
+      <link>http://dvd.netflix.com/Movie/Hitman-Agent-47/80015344</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Hitman-Agent-47/80015344</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Hitman-Agent-47/80015344&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80015344.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Drawing inspiration from the &quot;Hitman&quot; series of video games, this futuristic action-thriller follows young Katia van Dees as she joins forces with a genetically engineered assassin to find her missing father and unravel the mystery of her origins.</description>
+    </item>
+    <item>
+      <title>The Theory of Everything</title>
+      <link>http://dvd.netflix.com/Movie/The-Theory-of-Everything/80000644</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/The-Theory-of-Everything/80000644</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/The-Theory-of-Everything/80000644&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80000644.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;With his body progressively ravaged by ALS, world-famous physicist Stephen Hawking must rely on his wife,  Jane, to continue his life's work as he faces various challenges. This affecting biographical drama centers on the couple's fertile partnership.</description>
+    </item>
+    <item>
+      <title>Blackhat</title>
+      <link>http://dvd.netflix.com/Movie/Blackhat/80013273</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Blackhat/80013273</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Blackhat/80013273&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80013273.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;In this action-thriller, convicted hacker Nicholas Hathaway receives a &quot;get out of jail free&quot; card to join a team of American and Chinese technical experts tasked with tracking down a Balkan cyberterrorist operating from somewhere in Southeast Asia.</description>
+    </item>
+    <item>
+      <title>Amy</title>
+      <link>http://dvd.netflix.com/Movie/Amy/80049094</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Amy/80049094</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Amy/80049094&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80049094.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Though singer Amy Winehouse released only two albums during her brief and stormy career, she left an indelible mark on pop music. This affecting documentary recounts her meteoric rise to fame and the addictions that ended her life at age 27.</description>
+    </item>
+    <item>
+      <title>True Detective</title>
+      <link>http://dvd.netflix.com/Movie/True-Detective/70285356</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/True-Detective/70285356</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/True-Detective/70285356&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/70285356.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Matthew McConaughey and Woody Harrelson star in this crime drama about two detectives caught up in the 17-year-long hunt for a serial killer. Both cops' roles in a 1995 murder investigation come back to haunt them when the case is reopened.</description>
+    </item>
+    <item>
+      <title>Poltergeist</title>
+      <link>http://dvd.netflix.com/Movie/Poltergeist/80037477</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Poltergeist/80037477</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Poltergeist/80037477&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80037477.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;Retaining the eerie edge of the original 1982 film, this spooky remake follows the Bowen family as they discover that their new home is awash in malevolent spirits, who soon make off with youngest daughter Madison.</description>
+    </item>
+    <item>
+      <title>Truth</title>
+      <link>http://dvd.netflix.com/Movie/Truth/80058476</link>
+      <guid isPermaLink="true">http://dvd.netflix.com/Movie/Truth/80058476</guid>
+      <description>&lt;a href=&quot;http://dvd.netflix.com/Movie/Truth/80058476&quot;&gt;&lt;img src=&quot;http://cdn-0.nflximg.com/us/boxshots/small/80058476.jpg&quot;/&gt;&lt;/a&gt;&lt;br&gt;In this dramatic re-creation of news anchor Dan Rather's fall from grace, his stellar career comes to an abrupt end after erroneously reporting that President George W. Bush received preferential treatment that kept him from serving in Vietnam.</description>
+    </item>
+  </channel>
+</rss>

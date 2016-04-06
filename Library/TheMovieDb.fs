@@ -1,6 +1,7 @@
 ﻿module TheMovieDb
 
 open FSharp.Data
+open MovieData
 
 let apiKey = "1b0ffdcf0305781a94a4d20a142d5cf8"
 
@@ -13,20 +14,6 @@ let creditsUrl id =
 type MovieSearch = JsonProvider<"MovieSearchSample.json">
 type MovieDetails = JsonProvider<"MovieDetailsSample.json">
 type MovieCast = JsonProvider<"MovieCastSample.json">
-
-type Cast = 
-    { Actor: string
-      Character: string }
-
-type Details = 
-    { Homepage: string
-      Genres: seq<string>
-      Overview: string
-      Companies: seq<string>
-      Poster: string
-      Countries: seq<string>
-      Released: System.DateTime
-      AverageVote: decimal}
 
 let tryGetMovieId title = 
     let jsonResponse= 

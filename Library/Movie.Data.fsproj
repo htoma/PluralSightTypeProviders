@@ -66,6 +66,7 @@
     <Content Include="app.config" />
     <Compile Include="NYTimes.fs" />
     <Compile Include="TheMovieDb.fs" />
+    <Compile Include="Main.fs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="FSharp.Data">
