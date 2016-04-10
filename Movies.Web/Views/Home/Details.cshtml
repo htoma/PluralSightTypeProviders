@@ -1,0 +1,83 @@
+﻿@model MovieData.Movie
+@{
+    ViewBag.Title = Model.Movie.Title;
+}
+
+<div class="jumbotron">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>
+                    @{ var stars = (float) Model.Details.AverageVote / 2.0;}
+                    @for (var i = 4; i >= 0; i--)
+                    {
+                        if (stars > i + 0.2 && stars < i + 0.8)
+                        {
+                            <i class="fa fa-star-half-o"></i>
+                        }
+                        else if (stars > i + 0.2)
+                        {
+                            <i class="fa fa-star"></i>
+                        }
+                        else
+                        {
+                            <i class="fa fa-star-half-o"></i>
+                        }
+                    }
+                    @Model.Movie.Title
+                </h1>
+                <p>
+                    @Model.Movie.Summary
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container details">
+    <div class="row">
+        <div class="col-md-7">
+            <p>@Model.Details.Overview</p>
+            <h2>Movie Details</h2>
+            <ul>
+                <li>
+                    <strong>Released:</strong>
+                    @Model.Details.Released.ToString("D")
+                </li>
+                @if (!string.IsNullOrEmpty(Model.Details.Homepage))
+                {
+                    <li>
+                        <strong>Visit:</strong>
+                        <a href="@Model.Details.Homepage">
+                            @Model.Details.Homepage
+                        </a>
+                    </li>
+                }
+                <li>
+                    <strong>Genres:</strong>
+                    @string.Join(", ", Model.Details.Companies)
+                </li>
+                <li>
+                    <strong>Countries:</strong>
+                    @string.Join(", ", Model.Details.Countries)
+                </li>
+                <img src="http://image.tmdb.org/t/p/w500/@Model.Details.Poster"/>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="col-md-5 cast">
+    @if (Model.Review != null)
+    {
+        var review = Model.Review.Value;
+        <h2>Movie Review</h2>
+        <p>
+            @Html.Raw(review.Summary)
+            Read more in the <a href="@review.Link">
+                Review from @review.Published.ToString("d MMMM, yyyy ")
+            </a>
+        </p>
+    }
+</div>
+
